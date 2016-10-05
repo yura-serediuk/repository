@@ -1,1 +1,2 @@
-fatal: pathspec 'LICENSE' did not match any files
+
+fatal: pathspec 'LICENSE' did not match any filesfatal: pathspec 'LICENSE' did not match any files
